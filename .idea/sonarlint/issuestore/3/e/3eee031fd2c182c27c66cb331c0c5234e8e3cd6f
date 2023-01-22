@@ -1,0 +1,35 @@
+
+[
+java:S1192;"FDefine a constant instead of duplicating this literal "error" 3 times.(êúÊ/
+b
+java:S1192I"GDefine a constant instead of duplicating this literal "compte" 3 times.(Ñ‰³ıÿÿÿÿ
+d
+java:S1192"IDefine a constant instead of duplicating this literal "username" 4 times.(¥ÆÊ€üÿÿÿÿ
+o
+java:S3008"TRename this field "VIEW_PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åë’éşÿÿÿÿ
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(Åë’éşÿÿÿÿ
+>
+java:S1185"(Remove this method to simply inherit it.(®´š¥
+P
+java:S1854-"5Remove this useless assignment to local variable "c".(âí¢Ûùÿÿÿÿ
+i
+java:S1989"SHandle the following exception that could be thrown by "sendRedirect": IOException.(ÔşÕ¹
+|
+java:S1989&"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(¾§Á´ùÿÿÿÿ
+A
+java:S1481-"&Remove this unused "c" local variable.(âí¢Ûùÿÿÿÿ
+w
+java:S19891"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(Ğ„‹
+|
+java:S1989<"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(¾§Á´ùÿÿÿÿ
+n
+java:S1989I"SHandle the following exception that could be thrown by "sendRedirect": IOException.(Ñ‰³ıÿÿÿÿ
+o
+java:S1989Q"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(™Œóœ
+n
+java:S1989Y"SHandle the following exception that could be thrown by "sendRedirect": IOException.(Ìüšıÿÿÿÿ
+w
+java:S1989\"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ëÎçÅ
+H
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ
